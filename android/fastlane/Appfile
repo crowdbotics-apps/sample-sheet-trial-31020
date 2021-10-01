@@ -1,0 +1,2 @@
+json_key_file("") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.sample_sheet_trial_31020") # e.g. com.krausefx.app
